@@ -18,19 +18,19 @@ If I had to describe this project in three (3) emojis, they would be: 😕😊�
 
 The following REQUIRED features are completed:
 
-- [ ] Make an API call to an API of your choice using AsyncHTTPClient
-- [ ] Implement a RecyclerView to display a list of entries from the API
-- [ ] Display at least three (3) pieces of data for each RecyclerView item
+- [x] Make an API call to an API of your choice using AsyncHTTPClient
+- [x] Implement a RecyclerView to display a list of entries from the API
+- [x] Display at least three (3) pieces of data for each RecyclerView item
 
 The following STRETCH features are implemented:
 
-- [ ] Add a UI element for the user to interact with API further
-- [ ] Show a `Toast` or `Snackbar` when an item is clicked
-- [ ] Add item dividers with `DividerItemDecoration`
+- [x] Add a UI element for the user to interact with API further
+- [x] Show a `Toast` or `Snackbar` when an item is clicked
+- [x] Add item dividers with `DividerItemDecoration`
 
 The following EXTRA features are implemented:
 
-- [ ] List anything else that you added to improve the app!
+- [] List anything else that you added to improve the app!
 
 ## Video Demo
 
